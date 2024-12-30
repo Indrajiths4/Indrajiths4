@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🚀 About Me
 - 💻 I love coding in Python, JavaScript, and C++.
 - 🌱 Currently learning advanced algorithms and machine learning.
-- 👯 Looking to collaborate on exciting open-source projects.
-- 💬 Ask me about web development, data structures, and problem-solving.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- 📝 Check out my [Blog](https://your-blog-link.com) for more insights.
+- 💯 Looking to collaborate on exciting open-source projects.
+- 🗨️ Ask me about web development, data structures, and problem-solving.
+- 📩 How to reach me: [Your Email](mailto:your-email@example.com)
+- 🖍️ Check out my [Blog](https://your-blog-link.com) for more insights.
 
 ## 🛠️ Technologies & Tools
 
@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Indrajiths4&repo=your-repo-name&theme=radical)](https://github.com/Indrajiths4/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Indrajiths4&repo=your-repo-name&theme=radical)](https://github.com/Indrajiths4/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Indrajiths4&repo=Curently&theme=radical)](https://github.com/Indrajiths4/Curently)
 
-## 📫 Connect with Me
+
+## 📩 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)

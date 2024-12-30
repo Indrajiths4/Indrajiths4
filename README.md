@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects and collaborative coding.
 
 ## 🚀 About Me
-- 💻 I love coding in Python, JavaScript, and C++.
+- 💻 I love coding in Python, JavaScript, and C.
 - 🌱 Currently learning advanced algorithms and machine learning.
 - 💯 Looking to collaborate on exciting open-source projects.
 - 🗨️ Ask me about web development, data structures, and problem-solving.
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

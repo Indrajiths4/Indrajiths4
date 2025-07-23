@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 💯 Looking to collaborate on exciting open-source projects.
 - 🗨️ Ask me about web development, data structures, and problem-solving.
 - 📩 How to reach me: [indrajithmundackal@gmail.com](mailto:indrajithmundackal@gmail.com)
-- 🖍️ Check out my [Blog](https://your-blog-link.com) for more insights.
 
 ## 🛠️ Technologies & Tools
 
